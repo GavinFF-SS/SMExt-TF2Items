@@ -1,5 +1,5 @@
 # Builds when a release is published.
-name: Build Workflow
+name: Compile
 
 on:
   push:
